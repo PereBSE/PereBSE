@@ -32,8 +32,7 @@ Installation and maintenance of telephone lines and customer connectivity servic
 - Inbound Support - Sales Representative (GoDaddy)
 Provided technical assistance for domains, hosting services, email configuration and website-related issues. Assisted customers with troubleshooting and service recommendations.
 
-Some feedback about me left in Trustpilot: https://www.trustpilot.com/review/www.godaddy.com?search=Pere
-
+[During my time at GoDaddy, I consistently received positive customer feedback and public reviews highlighting technical support, problem-solving and customer service skills.](https://www.trustpilot.com/review/www.godaddy.com?languages=all&search=Pere)
 - Account Manager (Miravia - Alibaba Group)
 Managed seller accounts, supported business growth initiatives and served as a primary point of contact for marketplace partners.
 
@@ -92,7 +91,9 @@ Antes de orientarme plenamente al soporte IT, adquirí experiencia en telecomuni
 Instalación y mantenimiento de líneas telefónicas y servicios de conectividad. Diagnóstico y resolución de incidencias de red y soporte técnico presencial a clientes.
 
 - Especialista de Soporte Técnico (GoDaddy)
-Asistencia técnica y ventas relacionada con dominios, alojamiento web, correo electrónico. Resolución de problemas y atención al cliente. Opiniones sobre mi asistencia: https://www.trustpilot.com/review/www.godaddy.com?search=Pere
+Asistencia técnica y ventas relacionada con dominios, alojamiento web, correo electrónico. Resolución de problemas y atención al cliente. 
+
+[Durante mi etapa en GoDaddy recibí numerosas valoraciones públicas positivas de clientes por la calidad del soporte técnico y la atención prestada.](https://www.trustpilot.com/review/www.godaddy.com?languages=all&search=Pere)
 
 - Account Manager (Miravia - Alibaba Group)
 Gestión de cuentas de vendedores, apoyo al desarrollo de negocio y coordinación con socios del marketplace como punto principal de contacto.
