@@ -29,7 +29,7 @@ Before transitioning fully into IT Support, I gained experience in telecommunica
 - Telecommunications Field Technician (Telefónica Spain)
 Installation and maintenance of telephone lines and customer connectivity services. Troubleshooting network and connectivity issues while providing on-site technical support.
 
-- Technical Support Representative (GoDaddy)
+- Inbound Support - Sales Representative (GoDaddy)
 Provided technical assistance for domains, hosting services, email configuration and website-related issues. Assisted customers with troubleshooting and service recommendations.
 
 Some feedback about me left in Trustpilot: https://www.trustpilot.com/review/www.godaddy.com?search=Pere
@@ -54,7 +54,7 @@ This GitHub profile will gradually include:
 
 ## Connect With Me
 
-- 🌐 (https://tech.perepalma.com)
+- 🌐 https://tech.perepalma.com
 - 💼 [LinkedIn](https://linkedin.com/in/perepalma)
 - 📂 [GitHub](https://github.com/PereBSE)
 ---
@@ -92,7 +92,7 @@ Antes de orientarme plenamente al soporte IT, adquirí experiencia en telecomuni
 Instalación y mantenimiento de líneas telefónicas y servicios de conectividad. Diagnóstico y resolución de incidencias de red y soporte técnico presencial a clientes.
 
 - Especialista de Soporte Técnico (GoDaddy)
-Asistencia técnica y ventas relacionada con dominios, alojamiento web, correo electrónico. Resolución de problemas y atención al cliente. 
+Asistencia técnica y ventas relacionada con dominios, alojamiento web, correo electrónico. Resolución de problemas y atención al cliente. Opiniones sobre mi asistencia: https://www.trustpilot.com/review/www.godaddy.com?search=Pere
 
 - Account Manager (Miravia - Alibaba Group)
 Gestión de cuentas de vendedores, apoyo al desarrollo de negocio y coordinación con socios del marketplace como punto principal de contacto.
@@ -109,3 +109,9 @@ Este perfil irá incorporando progresivamente:
 - Proyectos de virtualización
 - Documentación técnica
 - Casos prácticos de resolución de incidencias
+
+## Contacto
+
+- 🌐 https://tech.perepalma.com
+- 💼 [LinkedIn](https://linkedin.com/in/perepalma)
+- 📂 [GitHub](https://github.com/PereBSE)
