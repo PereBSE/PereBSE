@@ -32,6 +32,8 @@ Installation and maintenance of telephone lines and customer connectivity servic
 - Technical Support Representative (GoDaddy)
 Provided technical assistance for domains, hosting services, email configuration and website-related issues. Assisted customers with troubleshooting and service recommendations.
 
+Some feedback about me left in Trustpilot: https://www.trustpilot.com/review/www.godaddy.com?search=Pere
+
 - Account Manager (Miravia - Alibaba Group)
 Managed seller accounts, supported business growth initiatives and served as a primary point of contact for marketplace partners.
 
@@ -50,6 +52,11 @@ This GitHub profile will gradually include:
 - Technical documentation
 - Troubleshooting case studies
 
+## Connect With Me
+
+- 🌐 (https://tech.perepalma.com)
+- 💼 [LinkedIn](https://linkedin.com/in/perepalma)
+- 📂 [GitHub](https://github.com/PereBSE)
 ---
 
 # Hola, soy Pere 👋
@@ -61,7 +68,7 @@ Técnico de soporte IT en formación con especial interés en hardware, sistemas
 ## Formación actual
 
 - Google IT Support Professional Certificate
-- Montaje y Reparación de Sistemas Microinformáticos (SEPE)
+- Montaje y Reparación de Sistemas Microinformáticos (Certificado de Profesionalidad SEPE Nivel 2 valido a nivel europeo)
 
 ## Áreas de interés
 
@@ -85,7 +92,7 @@ Antes de orientarme plenamente al soporte IT, adquirí experiencia en telecomuni
 Instalación y mantenimiento de líneas telefónicas y servicios de conectividad. Diagnóstico y resolución de incidencias de red y soporte técnico presencial a clientes.
 
 - Especialista de Soporte Técnico (GoDaddy)
-Asistencia técnica y ventas relacionada con dominios, alojamiento web, correo electrónico. Resolución de problemas y atención al cliente. Venta de 
+Asistencia técnica y ventas relacionada con dominios, alojamiento web, correo electrónico. Resolución de problemas y atención al cliente. 
 
 - Account Manager (Miravia - Alibaba Group)
 Gestión de cuentas de vendedores, apoyo al desarrollo de negocio y coordinación con socios del marketplace como punto principal de contacto.
