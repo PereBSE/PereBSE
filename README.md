@@ -6,7 +6,6 @@ IT Support Technician in training with a strong interest in hardware, operating 
 
 ## Currently studying
 
-- Google IT Support Professional Certificate
 - Microcomputer Systems Assembly and Repair (SEPE)
 
 ## Areas of Interest
@@ -24,7 +23,11 @@ To build a professional career in IT Support by developing practical skills and 
 
 ## Professional Background
 
-Before transitioning fully into IT Support, I gained experience in telecommunications, technical customer support and account management roles.
+My professional experience combines technical support, customer service, sales and account management.
+ 
+Throughout my career I have worked in telecommunications, web hosting, customer support and e-commerce environments, developing strong troubleshooting, communication and relationship-building skills.
+ 
+I am currently expanding my IT knowledge through hands-on labs, hardware projects and technical training.
 
 - Telecommunications Field Technician (Telefónica Spain)
 Installation and maintenance of telephone lines and customer connectivity services. Troubleshooting network and connectivity issues while providing on-site technical support.
@@ -33,6 +36,7 @@ Installation and maintenance of telephone lines and customer connectivity servic
 Provided technical assistance for domains, hosting services, email configuration and website-related issues. Assisted customers with troubleshooting and service recommendations.
 
 [During my time at GoDaddy, I consistently received positive customer feedback and public reviews highlighting technical support, problem-solving and customer service skills.](https://www.trustpilot.com/review/www.godaddy.com?languages=all&search=Pere)
+
 - Account Manager (Miravia - Alibaba Group)
 Managed seller accounts, supported business growth initiatives and served as a primary point of contact for marketplace partners.
 
@@ -66,7 +70,6 @@ Técnico de soporte IT en formación con especial interés en hardware, sistemas
 
 ## Formación actual
 
-- Google IT Support Professional Certificate
 - Montaje y Reparación de Sistemas Microinformáticos (Certificado de Profesionalidad SEPE Nivel 2 valido a nivel europeo)
 
 ## Áreas de interés
@@ -81,11 +84,13 @@ Técnico de soporte IT en formación con especial interés en hardware, sistemas
 
 ## Objetivo profesional
 
-Desarrollar una carrera profesional como Técnico de Soporte IT mediante la adquisición de experiencia práctica y la documentación de proyectos y laboratorios técnicos.
+Desarrollar una carrera profesional en IT mediante la adquisición de experiencia práctica y la documentación de proyectos y laboratorios técnicos.
 
 ## Experiencia profesional previa
 
-Antes de orientarme plenamente al soporte IT, adquirí experiencia en telecomunicaciones, soporte técnico y gestión de cuentas.
+Mi experiencia profesional combina soporte técnico, atención al cliente, ventas y gestión de cuentas.
+ 
+He trabajado en entornos de telecomunicaciones, alojamiento web, soporte a clientes y comercio electrónico, desarrollando habilidades de resolución de incidencias, comunicación y gestión de relaciones profesionales.
 
 - Técnico Instalador de Telecomunicaciones (Telefónica España)
 Instalación y mantenimiento de líneas telefónicas y servicios de conectividad. Diagnóstico y resolución de incidencias de red y soporte técnico presencial a clientes.
@@ -99,6 +104,8 @@ Asistencia técnica y ventas relacionada con dominios, alojamiento web, correo e
 Gestión de cuentas de vendedores, apoyo al desarrollo de negocio y coordinación con socios del marketplace como punto principal de contacto.
 
 Estas experiencias reforzaron mis habilidades de resolución de problemas, atención al cliente y comunicación, competencias fundamentales en el área de soporte IT.
+
+Actualmente estoy ampliando mis conocimientos IT mediante formación técnica, laboratorios prácticos y proyectos personales.
 
 ## Próximamente
 
