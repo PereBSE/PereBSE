@@ -111,6 +111,14 @@ Este perfil irá incorporando progresivamente:
 - Documentación técnica
 - Casos prácticos de resolución de incidencias
 
+## 🧪 Laboratorios prácticos
+ 
+### Hardware
+ 
+- [Desmontaje y montaje de portátil Acer](https://github.com/PereBSE/acer-laptop-disassembly)
+ 
+Práctica de desmontaje, identificación de componentes, montaje y verificación funcional de un portátil Acer como parte de mi formación en soporte TI y microinformática.
+
 ## Contacto
 
 - 🌐 https://tech.perepalma.com
