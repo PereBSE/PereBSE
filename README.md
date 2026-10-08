@@ -119,6 +119,14 @@ Este perfil irá incorporando progresivamente:
  
 Práctica de desmontaje, identificación de componentes, montaje y verificación funcional de un portátil Acer como parte de mi formación en soporte TI y microinformática.
 
+### Tecnología e Historia
+ 
+🏛️ Visita a la exposición de Historia de la Computación (MNACTEC)
+Documentación fotográfica y reflexiones sobre la evolución de la informática tras una visita al museo.
+
+- [Visita a la exposición de Historia de la Computación](https://github.com/PereBSE/mnactec-computing-history)
+ 
+
 ## Contacto
 
 - 🌐 https://tech.perepalma.com
