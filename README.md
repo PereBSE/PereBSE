@@ -122,16 +122,21 @@ Este perfil irá incorporando progresivamente:
  
 ### Hardware
  
-- [Desmontaje y montaje de portátil Acer](https://github.com/PereBSE/acer-laptop-disassembly)
+🔧 [Desmontaje y montaje de portátil Acer](https://github.com/PereBSE/acer-laptop-disassembly)
  
 Práctica de desmontaje, identificación de componentes, montaje y verificación funcional de un portátil Acer como parte de mi formación en soporte TI y microinformática.
 
+### Formación y experiencias
+ 
+🚀 [Piscine 42 Barcelona](https://github.com/PereBSE/Piscine-42-Barcelona)
+ 
+Proceso de selección intensivo de 26 días en 42 Barcelona. Aprendizaje autónomo de terminal Linux, Git y lenguaje C, trabajo colaborativo y desarrollo de habilidades de resolución de problemas bajo la filosofía "Up to you".
+
 ### Tecnología e Historia
  
-🏛️ Visita a la exposición de Historia de la Computación (MNACTEC)
+🏛️ [Visita a la exposición de Historia de la Computación](https://github.com/PereBSE/mnactec-computing-history) (MNACTEC)
 Documentación fotográfica y reflexiones sobre la evolución de la informática tras una visita al museo.
 
-- [Visita a la exposición de Historia de la Computación](https://github.com/PereBSE/mnactec-computing-history)
  
 
 ## Contacto
