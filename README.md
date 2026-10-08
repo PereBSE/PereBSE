@@ -8,6 +8,10 @@ IT Support Technician in training with a strong interest in hardware, operating 
 
 - Microcomputer Systems Assembly and Repair (SEPE)
 
+## Completed Certifications
+ 
+[Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/Y0NSVFECZMTI)
+
 ## Areas of Interest
 
 - IT Support
@@ -71,6 +75,10 @@ Técnico de soporte IT en formación con especial interés en hardware, sistemas
 ## Formación actual
 
 - Montaje y Reparación de Sistemas Microinformáticos (Certificado de Profesionalidad SEPE Nivel 2 valido a nivel europeo)
+
+## Certificaciones obtenidas
+
+[Certificado Soporte de tecnologías de información de Google](https://www.coursera.org/account/accomplishments/verify/Y0NSVFECZMTI))
 
 ## Áreas de interés
 
